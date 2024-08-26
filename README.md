@@ -1,1 +1,1 @@
-# project-2-pwa
+# pwa-demo
